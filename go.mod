@@ -1,4 +1,4 @@
-module login-model
+module github.com/zkep/login-model
 
 go 1.14
 
