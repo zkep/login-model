@@ -1,4 +1,4 @@
-module awesome-go-login-model
+module login-model
 
 go 1.14
 
